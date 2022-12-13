@@ -34,9 +34,13 @@ from house_prices import predict_price
 
 ## inputs
 average_income = 50000
+
 average_age = 10
+
 average_rooms = 3
+
 average_bedrooms = 2
+
 population = 1000
 
 ## get the predicted price
